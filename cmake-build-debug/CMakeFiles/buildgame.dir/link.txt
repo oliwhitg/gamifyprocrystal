@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/buildgame.dir/main.cpp.o  -o buildgame 

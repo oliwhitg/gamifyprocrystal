@@ -1,0 +1,3 @@
+/home/oli/CLionProjects/buildgame/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/oli/CLionProjects/buildgame/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/oli/CLionProjects/buildgame/cmake-build-debug/CMakeFiles/buildgame.dir
