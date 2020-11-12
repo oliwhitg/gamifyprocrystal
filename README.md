@@ -15,7 +15,7 @@ Use the input files to control mc parameters
 Configuration chosen by ./main.x [fileno] where fileno is a number between 2-15
 
 In the app:\
-*tab saves the config connections
-*left click on node rotates it
-*right click converts between bent/linear forms of 2 coordinate nodes
-*enter runs mc for number of steps OR until energy is halved
+*tab      saves the config connections\
+*left     click on node rotates it\
+*right    click converts between bent/linear forms of 2 coordinate nodes\
+*enter    runs mc for number of steps OR until energy is halved\
