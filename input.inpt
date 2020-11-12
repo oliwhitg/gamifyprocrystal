@@ -1,0 +1,8 @@
+////// INPUT FILE FOR GAME //////////
+
+0.200           T1 (Temperature 1, Temperature applied for energy > 6)
+0.250           T2 (Temperature 2, Temparature applied for energy >4 , <6)
+0.275           T3 (Temperature 3, Temperature applied for energy < 4)
+
+1000000       Maximum number of steps
+1000          Printout steps
