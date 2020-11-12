@@ -1,0 +1,1 @@
+/usr/bin/c++  -g  -rdynamic CMakeFiles/buildgame.dir/main.cpp.o  -o buildgame   -L/home/oli/CLionProjects/buildgame/SFML_LIBRARY_DIR 

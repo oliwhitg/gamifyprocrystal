@@ -1,0 +1,3 @@
+/home/oli/CLionProjects/buildgame/CMakeFiles/rebuild_cache.dir
+/home/oli/CLionProjects/buildgame/CMakeFiles/edit_cache.dir
+/home/oli/CLionProjects/buildgame/CMakeFiles/SFMLApp.dir

@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/oli/CLionProjects/buildgame/main.cpp
+iostream
+-
+SFML/Graphics.hpp
+-
+fstream
+-
+random
+-
+string
+-
+sstream
+-
+chrono
+-
+sys/stat.h
+-
+
